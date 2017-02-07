@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Denis Volkhonskiy"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Denis Volkhonskiy"
+description              : "I do ..."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -81,7 +81,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
-  email            :
+  email            : dvolkhonskiy@gmail.comn
   uri              :
   bitbucket        :
   codepen          :
