@@ -77,19 +77,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Denis Volkhonskiy"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I am a student at Higher School of Economics, Yandex School of Data Analysis"
+  location         : "Moscow"
   email            : dvolkhonskiy@gmail.comn
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/profile.php?id=100004256643850
   foursquare       :
-  github           :
+  github           : https://github.com/dvolkhonskiy
   google_plus      :
   keybase          :
   instagram        :
