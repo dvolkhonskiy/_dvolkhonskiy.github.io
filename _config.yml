@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Denis Volkhonskiy"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/photo.JPG"
   bio              : "I am a student at Higher School of Economics, Yandex School of Data Analysis"
   location         : "Moscow"
   email            : dvolkhonskiy@gmail.comn
